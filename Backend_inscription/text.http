@@ -1,0 +1,16 @@
+GET https://localhost:3000/inscription
+
+
+###
+
+POST https://localhost:3000/inscription
+content-type: application/json
+
+ {
+      "id": 3,
+      "nom": "Ndiaye",
+      "prenom": "Aminata",
+      "classe": "L2 GL",
+      "matricule": "GL003",
+      "email": "aminata.ndiaye@example.com"
+    }

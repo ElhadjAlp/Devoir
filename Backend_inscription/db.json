@@ -1,0 +1,28 @@
+{
+  "inscription": [
+    {
+      "id": 1,
+      "nom": "Sow",
+      "prenom": "Fatou",
+      "classe": "L1 MAE",
+      "matricule": "MAE001",
+      "email": "fatou.sow@example.com"
+    },
+    {
+      "id": 2,
+      "nom": "Diop",
+      "prenom": "Aliou",
+      "classe": "L1 MAE",
+      "matricule": "MAE002",
+      "email": "aliou.diop@example.com"
+    },
+    {
+      "id": 3,
+      "nom": "Ndiaye",
+      "prenom": "Aminata",
+      "classe": "L2 GL",
+      "matricule": "GL003",
+      "email": "aminata.ndiaye@example.com"
+    }
+  ]
+}
